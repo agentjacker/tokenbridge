@@ -37,7 +37,7 @@
     "@nomiclabs/hardhat-web3": "^2.0.0",
     "@thinkanddev/deploy-eip-1820-web3-rsk": "^1.0.2",
     "@thinkanddev/hardhat-erc1820-rsk": "^0.1.2",
-    "@truffle/compile-common": "^0.7.15",
+    "@truffle/compile-common": "^0.8.1",
     "chalk": "^4.1.0",
     "hardhat-contract-sizer": "^2.3.0",
     "hardhat-deploy": "^0.9.24",
